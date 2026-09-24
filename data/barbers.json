@@ -1,0 +1,60 @@
+[
+  {
+    "id": "cualquiera",
+    "name": "Cualquiera",
+    "title": "Próximo disponible",
+    "avatarUrl": "",
+    "available": true,
+    "role": "staff",
+    "permissions": {
+      "canViewBookings": true,
+      "canManageBookings": true,
+      "canViewAnalytics": false,
+      "canViewCalendar": true,
+      "canManageServices": false,
+      "canManageTeam": false,
+      "canViewLogs": false,
+      "canViewEmails": false
+    }
+  },
+  {
+    "id": "alejandro",
+    "name": "Alejandro",
+    "title": "Master Barber (Propietario)",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "available": true,
+    "username": "alejandro",
+    "password": "alejandro2026",
+    "role": "admin",
+    "permissions": {
+      "canViewBookings": true,
+      "canManageBookings": true,
+      "canViewAnalytics": true,
+      "canViewCalendar": true,
+      "canManageServices": true,
+      "canManageTeam": true,
+      "canViewLogs": true,
+      "canViewEmails": true
+    }
+  },
+  {
+    "id": "david",
+    "name": "David",
+    "title": "Senior Stylist / Especialista Degradados",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "available": true,
+    "username": "david",
+    "password": "david2026",
+    "role": "staff",
+    "permissions": {
+      "canViewBookings": true,
+      "canManageBookings": true,
+      "canViewAnalytics": false,
+      "canViewCalendar": true,
+      "canManageServices": false,
+      "canManageTeam": false,
+      "canViewLogs": false,
+      "canViewEmails": false
+    }
+  }
+]

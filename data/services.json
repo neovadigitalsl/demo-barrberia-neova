@@ -1,0 +1,42 @@
+[
+  {
+    "id": "corte-clasico",
+    "name": "Corte Clásico",
+    "duration": 30,
+    "price": 15,
+    "description": "Asesoramiento de imagen, lavado refrescante, corte artesanal a tijera o máquina y peinado final impecable.",
+    "popular": true,
+    "available": true,
+    "icon": "content_cut"
+  },
+  {
+    "id": "corte-barba",
+    "name": "Corte+Barba",
+    "duration": 45,
+    "price": 22,
+    "description": "Corte completo combinado con ritual de toallas calientes, perfilado a navaja tradicional y bálsamo hidratante.",
+    "popular": true,
+    "available": true,
+    "icon": "diamond"
+  },
+  {
+    "id": "perfilado",
+    "name": "Perfilado",
+    "duration": 20,
+    "price": 10,
+    "description": "Definición de contornos de barba y cuello a navaja con toalla caliente y loción calmante.",
+    "popular": false,
+    "available": true,
+    "icon": "face"
+  },
+  {
+    "id": "nino",
+    "name": "Niño",
+    "duration": 30,
+    "price": 12,
+    "description": "Corte de pelo especial para los más pequeños realizado con paciencia, cuidado y la mejor técnica.",
+    "popular": false,
+    "available": true,
+    "icon": "child_care"
+  }
+]

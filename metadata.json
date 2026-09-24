@@ -1,0 +1,6 @@
+{
+  "name": "The Arsenal Barber Co.",
+  "description": "Aplicación web interactiva para The Arsenal Barber Co. con reserva de citas online, servicios premium de barbería, integración de agenda y panel de control administrativo exclusivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
