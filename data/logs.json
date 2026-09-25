@@ -1,0 +1,9 @@
+[
+  {
+    "id": "log-1",
+    "action": "SISTEMA_INICIO",
+    "details": "Panel de administración y logs de auditoría inicializados.",
+    "timestamp": "2026-09-25T12:11:30.732Z",
+    "adminUser": "Sistema"
+  }
+]
